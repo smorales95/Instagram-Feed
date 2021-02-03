@@ -10,6 +10,9 @@ header{
 header h1{
 	margin: 0;
 }
+#font{
+	margin-left: 10px;
+}
 
 div{
 	box-sizing: border-box;
